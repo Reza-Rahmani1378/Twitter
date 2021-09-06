@@ -1,4 +1,4 @@
-package ir.maktab56.home_work13.base;
+package ir.maktab56.home_work13.base.domain;
 
 import javax.persistence.Column;
 import javax.persistence.GeneratedValue;
